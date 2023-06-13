@@ -1,0 +1,8 @@
+table{
+    border: blue solid 1px;
+}
+
+td{
+    padding: 3px;
+    background-color: beige;
+}
